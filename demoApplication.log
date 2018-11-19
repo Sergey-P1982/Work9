@@ -1,0 +1,16 @@
+2018-11-19 21:45:34 DEBUG Controller:46 - Menu item selected - 0
+2018-11-19 21:45:41 DEBUG Controller:53 - Selected locale - uk_UA
+2018-11-19 21:46:07 DEBUG Controller:46 - Menu item selected - 5
+2018-11-19 22:39:22 DEBUG Controller:46 - Menu item selected - 1
+2018-11-19 22:39:27 DEBUG Controller:59 - Author name - ABC
+2018-11-19 22:39:27 DEBUG Controller:116 - The result is null or an empty array of the books
+2018-11-19 22:39:33 DEBUG Controller:46 - Menu item selected - 0
+2018-11-19 22:39:38 DEBUG Controller:53 - Selected locale - ru_RU
+2018-11-19 22:39:41 DEBUG Controller:46 - Menu item selected - 2
+2018-11-19 22:39:55 DEBUG Controller:65 - Publisher name - DUH
+2018-11-19 22:40:05 DEBUG Controller:46 - Menu item selected - 0
+2018-11-19 22:40:11 DEBUG Controller:53 - Selected locale - uk_UA
+2018-11-19 22:40:16 DEBUG Controller:46 - Menu item selected - 3
+2018-11-19 22:40:21 DEBUG Controller:71 - Release year - 1999
+2018-11-19 22:40:26 DEBUG Controller:46 - Menu item selected - 4
+2018-11-19 22:40:32 DEBUG Controller:46 - Menu item selected - 5

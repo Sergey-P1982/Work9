@@ -1,0 +1,23 @@
+
+2018-35-18 19:35:24 [ERROR] [main] [com.epam.task2.controller.Controller] - File not found
+java.io.FileNotFoundException: Books_TxtFile.txt (Не удается найти указанный файл)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at java.io.FileReader.<init>(FileReader.java:58)
+	at com.epam.task2.data.DataSource.readAndGetBooksFromTxtFile(DataSource.java:16)
+	at com.epam.task2.controller.Controller.run(Controller.java:24)
+	at com.epam.task2.Main.main(Main.java:14)
+2018-35-18 19:35:50 [DEBUG] [main] [com.epam.task2.controller.Controller] - Menu item selected - 1
+2018-35-18 19:35:58 [DEBUG] [main] [com.epam.task2.controller.Controller] - Author name - Petrov
+2018-35-18 19:35:58 [DEBUG] [main] [com.epam.task2.controller.Controller] - The result is null or an empty array of the books
+2018-36-18 19:36:05 [DEBUG] [main] [com.epam.task2.controller.Controller] - Menu item selected - 4
+2018-36-18 19:36:05 [ERROR] [main] [com.epam.task2.controller.Controller] - Null pointer exception
+java.lang.NullPointerException
+	at com.epam.task2.view.BooksView.printBooks(BooksView.java:23)
+	at com.epam.task2.controller.Controller.sortByPublisher(Controller.java:120)
+	at com.epam.task2.controller.Controller.executeMenuItem(Controller.java:66)
+	at com.epam.task2.controller.Controller.run(Controller.java:40)
+	at com.epam.task2.Main.main(Main.java:14)
+2018-36-18 19:36:09 [DEBUG] [main] [com.epam.task2.controller.Controller] - Menu item selected - 5

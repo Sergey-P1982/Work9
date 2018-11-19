@@ -1,0 +1,5 @@
+Title1, Shevchenko, TIME, 1920, 320, 450.0
+Title2, Tkachenko, DUH, 1978, 420, 480.0
+Title3, Ivanov, FACT, 2012, 520, 150.0
+Title4, Petrov, TEZA, 2013, 620, 450.0
+Title5, Franko, VELES, 1982, 120, 350.0
